@@ -74,3 +74,4 @@ if st.button('Search'):
 
     else:
         st.warning("Please fill in all fields.")
+
